@@ -19,3 +19,10 @@ This project demonstrates how to detect sarcasm in news headlines using the **BE
   - `headline` — The news headline (string)
   - `is_sarcastic` — Target label (`1` = sarcastic, `0` = not sarcastic)
 ---
+
+🔗 **Saved Model File**  
+To avoid GitHub file size limits, the fine-tuned model (`model.safetensors`) is not uploaded.   
+- Uncomment the codes and run them if you want to run without saved files.
+- Comment the saving part.
+
+---
